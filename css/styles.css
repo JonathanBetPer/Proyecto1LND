@@ -188,14 +188,17 @@ body{
         max-width: 60rem;
     
     }
-
+    
 
 }
 
+
 .campo textarea{
     height: 20rem;
-    width: 90%;
     border-radius: 0.5rem;
+    width: 90%;
+    border:none;
+    padding: 2rem;
 }
 
 .campo {
@@ -216,3 +219,4 @@ input {
     border:none;
     padding: 2rem;
 }
+/* 11 */
